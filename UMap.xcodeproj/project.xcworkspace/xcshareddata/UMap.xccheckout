@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6566A591-EF03-4F7F-A56C-242EDFD0A6D8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UMap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7A4A73D4-4BD0-425A-BB9D-B1D4EAAE5D38</key>
+		<string>ssh://github.com/neilunadkat/UMap.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UMap.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7A4A73D4-4BD0-425A-BB9D-B1D4EAAE5D38</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/neilunadkat/UMap.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7A4A73D4-4BD0-425A-BB9D-B1D4EAAE5D38</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7A4A73D4-4BD0-425A-BB9D-B1D4EAAE5D38</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UMap</string>
+		</dict>
+	</array>
+</dict>
+</plist>

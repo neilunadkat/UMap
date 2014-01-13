@@ -13,7 +13,7 @@
 
 @end
 
-NSString *kLoadingUrl = @"http://the-jquerymobile-tutorial.org/test/";
+NSString *kLoadingUrl = @"http://pg2992.github.io/social/";
 @implementation ViewController
 
 - (void)viewDidLoad
